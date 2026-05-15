@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import os
 folder_path="data"
-file_path="data/expense.csv"
+file_path="stage_2/data/expense.csv"
 
 if not os.path.exists(folder_path):
     os.makedirs(folder_path)
