@@ -1,0 +1,55 @@
+Date,Category,Description,Currency Type,Importance,Amount
+2026-03-30,Debt Payments,Home loan payment,Dollars,8,2000000
+2026-03-27,Insurance,Health insurance payment,Dollars,7,20000
+2026-04-23,Debt Payments,Phone purchase payment,Dollars,1,1000
+2026-05-07,Housing,House utility and maintenance bills,Dollars,7,10000
+2026-05-08,Food,Weekly grocery shopping,Dollars,6,350
+2026-05-09,Transportation,Fuel refill for car,Dollars,5,80
+2026-05-10,Entertainment,Movie night and dinner,Dollars,3,120
+2026-05-11,Healthcare,Dentist appointment,Dollars,7,250
+2026-05-12,Education,Online course subscription,Dollars,6,500
+2026-05-13,Savings,Monthly savings deposit,Dollars,9,1500
+2026-05-14,Utilities,Electricity bill payment,Dollars,8,220
+2026-05-15,Utilities,Water bill payment,Dollars,7,90
+2026-05-16,Food,Restaurant dinner with family,Dollars,4,180
+2026-05-17,Transportation,Car maintenance service,Dollars,6,650
+2026-05-18,Shopping,Clothing purchase,Dollars,3,400
+2026-05-19,Insurance,Vehicle insurance renewal,Dollars,8,1200
+2026-05-20,Healthcare,Prescription medication,Dollars,7,140
+2026-05-21,Entertainment,Streaming platform subscription,Dollars,2,25
+2026-05-22,Education,School supplies purchase,Dollars,5,175
+2026-05-23,Housing,Apartment cleaning service,Dollars,4,160
+2026-05-24,Food,Monthly bulk grocery purchase,Dollars,7,620
+2026-05-25,Transportation,Public transit pass,Dollars,5,95
+2026-05-26,Savings,Emergency fund contribution,Dollars,9,2000
+2026-05-27,Utilities,Internet service payment,Dollars,6,75
+2026-05-28,Shopping,Mobile accessories purchase,Dollars,2,85
+2026-05-29,Debt Payments,Credit card bill payment,Dollars,8,3200
+2026-05-30,Healthcare,Annual health checkup,Dollars,8,450
+2026-05-31,Entertainment,Concert ticket purchase,Dollars,3,210
+2026-06-01,Food,Coffee shop expenses,Dollars,2,40
+2026-06-02,Transportation,Taxi and rideshare expenses,Dollars,4,130
+2026-06-03,Education,Language learning classes,Dollars,6,700
+2026-06-04,Housing,Furniture repair service,Dollars,5,300
+2026-06-05,Utilities,Gas bill payment,Dollars,7,110
+2026-06-06,Savings,Retirement savings contribution,Dollars,9,2500
+2026-06-07,Insurance,Travel insurance purchase,Dollars,5,260
+2026-06-08,Food,Lunch meetings and snacks,Dollars,3,95
+2026-06-09,Shopping,Kitchen appliance purchase,Dollars,6,850
+2026-06-10,Transportation,Parking fees,Dollars,2,45
+2026-06-11,Healthcare,Eye examination appointment,Dollars,6,180
+2026-06-12,Entertainment,Theme park visit,Dollars,4,340
+2026-06-13,Debt Payments,Personal loan repayment,Dollars,8,5000
+2026-06-14,Utilities,Mobile phone bill payment,Dollars,6,65
+2026-06-15,Education,Professional certification exam,Dollars,7,900
+2026-06-16,Housing,Home security system payment,Dollars,6,240
+2026-06-17,Food,Weekend family brunch,Dollars,3,150
+2026-06-18,Transportation,Vehicle registration renewal,Dollars,7,320
+2026-06-19,Savings,Investment account deposit,Dollars,9,3000
+2026-06-20,Shopping,Office supplies purchase,Dollars,4,130
+2026-06-21,Healthcare,Physical therapy session,Dollars,7,275
+2026-06-22,Entertainment,Video game purchase,Dollars,2,70
+2026-06-23,Insurance,Home insurance premium,Dollars,8,1800
+2026-06-24,Utilities,Trash collection service,Dollars,5,55
+2026-06-25,Food,Organic grocery shopping,Dollars,6,410
+2026-06-26,Transportation,Bicycle repair service,Dollars,3,95
