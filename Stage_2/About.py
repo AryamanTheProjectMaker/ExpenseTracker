@@ -11,7 +11,7 @@ with tab1:
     
     with col1:
         # Note: 'Me.png' must be in the same folder as this script
-        st.image("Me.png")
+        st.image("Stage_2/Me.png")
                          
     with col2:
         st.subheader(
